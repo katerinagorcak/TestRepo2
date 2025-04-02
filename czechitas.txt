@@ -1,0 +1,16 @@
+QAmazons - Kdo jsme?
+
+**Romana Grundová**  
+... zde napište něco o sobě ...
+
+**Kateřina Turoň**  
+... zde napište něco o sobě ...
+
+**Kateřina Gorčáková**  
+... zde napište něco o sobě ...
+
+**Šárka Trechová**  
+... zde napište něco o sobě ...
+
+**Lenka Kalábová**  
+... zde napište něco o sobě ...
