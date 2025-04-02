@@ -6,8 +6,8 @@ QAmazons - Kdo jsme?
 **Kateřina Turoň**  
 ... zde napište něco o sobě ...
 
-**Kateřina Gorčáková**  
-Je mi 35 let.
+<span style="background-color: lightblue;">**Kateřina Gorčáková**</span>  
+... zde napište něco o sobě ...
 
 **Šárka Trechová**  
 ... zde napište něco o sobě ...
